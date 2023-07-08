@@ -75,12 +75,12 @@ firstTitle: I'm
 secondTitle: Manav Mehta,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: The end
-secondTitle: developer
+firstTitle: I'm
+secondTitle: Single
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: and
-secondTitle: dora explorer.
+firstTitle: anyone
+secondTitle: down?
 
 -- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -99,8 +99,8 @@ title: Kill me
 link: mailto: manavamehta2701@gmail.com
 
 -- button.primary:
-title: Push for Free Pizza
-link: www.imgur.com/a/G6rU8
+title: Github
+link: https://github.com/manav2701
 isNewTab: true
 
 -- end: ftd.row
