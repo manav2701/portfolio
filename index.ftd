@@ -45,7 +45,8 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 
 -- toast.stack:
 title: Hello, I'm aspiring fastn developer based in India
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://github.com/manav2701
+link: www.imgur.com/a/G6rU8
 
 ;; -----------------------------------------------------
 ;; ***** PORTFOLIO Toast ends *****
@@ -71,15 +72,15 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Manav Mehta,
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: frontend
+firstTitle: The end
 secondTitle: developer
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: and
-secondTitle: explorer.
+secondTitle: dora explorer.
 
 -- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
 role: $lib.home-description-responsive-typography
@@ -94,8 +95,8 @@ width.fixed.px: 700
 spacing.fixed.px: 10
 
 -- button.secondary:
-title: Hire me
-link: mailto:YOUR_EMAIL_ADDRESS
+title: Kill me
+link: mailto: manavamehta2701@gmail.com
 
 -- button.primary:
 title: Schedule a Meeting
@@ -117,19 +118,19 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
+link: https://www.linkedin.com/in/manav-mehta-ab1b2a225/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
-link: https://twitter.com/YOUR_TWITTER_USERNAME
+link: https://twitter.com/elonmusk
 image: $assets.files.images.twitter.png
 
 -- social.social-button-wrapper:
-link: https://github.com/YOUR_GITHUB_USERNAME
+link: https://open.spotify.com/playlist/33Bq7NsRJdn3ha0caqkvm7?si=1f0130007b9642ba
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/YOUR_INSTAGRAM_USERNAME
+link: https://www.instagram.com/manavmehta_27/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
