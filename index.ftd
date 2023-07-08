@@ -44,7 +44,7 @@ cta-item2-link: /YOUR_REPOSITORY_NAME/resume
 ;; -----------------------------------------------------
 
 -- toast.stack:
-title: Hello, I'm aspiring fastn developer based in India
+title: Hello, I'm aspiring fastn developer based in Uranus
 link: https://github.com/manav2701
 
 
@@ -82,7 +82,7 @@ secondTitle: Single
 firstTitle: anyone
 secondTitle: down?
 
--- ftd.text: design and create functional and beautiful applications with passion and a focus on user experience and high quality.
+-- ftd.text: If not me, your loss!
 role: $lib.home-description-responsive-typography
 margin-top.px: 10
 width.fixed.px: 700
@@ -99,8 +99,8 @@ title: Date me
 link: https://ponly.com/dirty-dad-jokes/
 
 -- button.primary:
-title: Github
-link: https://www.youtube.com/results?search_query=rickroll
+title: Click Me For Free Pizza
+link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 isNewTab: true
 
 -- end: ftd.row
