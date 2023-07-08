@@ -95,8 +95,8 @@ width.fixed.px: 700
 spacing.fixed.px: 10
 
 -- button.secondary:
-title: Kill me
-link: mailto: manavamehta2701@gmail.com
+title: Date me
+link: https://ponly.com/dirty-dad-jokes/
 
 -- button.primary:
 title: Github
@@ -118,7 +118,7 @@ isNewTab: true
 spacing.fixed.px: 10
 
 -- social.social-button-wrapper:
-link: https://www.linkedin.com/in/manav-mehta-ab1b2a225/
+link: https://www.linkedin.com/in/sundar-pichai-66675b265/
 image: $assets.files.images.linkedin.png
 
 -- social.social-button-wrapper:
@@ -134,7 +134,7 @@ link: https://www.instagram.com/manavmehta_27/
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
-link: mailto:YOUR_EMAIL_ADDRESS
+link: https://www.reddit.com/r/yourmum/
 image: $assets.files.images.mail.png
 
 -- end: ftd.row
