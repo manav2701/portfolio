@@ -71,16 +71,16 @@ spacing.fixed.px: 20
 spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: I'm
-secondTitle: Manav Mehta,
+firstTitle: Heyyy
+secondTitle: Jhanviiii,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: Single
+secondTitle: Manav
 
 -- lib.hero-ui-base-text-wrapper:
-firstTitle: anyone
-secondTitle: down?
+firstTitle: & 
+secondTitle: I'm Missing you....
 
 -- ftd.text: If not me, your loss!
 role: $lib.home-description-responsive-typography
